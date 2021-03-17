@@ -1,0 +1,12 @@
+C:\Desenvolvimento\Repositorios SiteMercado\ProjetoBackendSiteMercado\SiteMercadoBackend.Produto\bin\Debug\net5.0\SiteMercadoBackend.Produto.deps.json
+C:\Desenvolvimento\Repositorios SiteMercado\ProjetoBackendSiteMercado\SiteMercadoBackend.Produto\bin\Debug\net5.0\SiteMercadoBackend.Produto.dll
+C:\Desenvolvimento\Repositorios SiteMercado\ProjetoBackendSiteMercado\SiteMercadoBackend.Produto\bin\Debug\net5.0\ref\SiteMercadoBackend.Produto.dll
+C:\Desenvolvimento\Repositorios SiteMercado\ProjetoBackendSiteMercado\SiteMercadoBackend.Produto\bin\Debug\net5.0\SiteMercadoBackend.Produto.pdb
+C:\Desenvolvimento\Repositorios SiteMercado\ProjetoBackendSiteMercado\SiteMercadoBackend.Produto\obj\Debug\net5.0\SiteMercadoBackend.Produto.csprojAssemblyReference.cache
+C:\Desenvolvimento\Repositorios SiteMercado\ProjetoBackendSiteMercado\SiteMercadoBackend.Produto\obj\Debug\net5.0\SiteMercadoBackend.Produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\Repositorios SiteMercado\ProjetoBackendSiteMercado\SiteMercadoBackend.Produto\obj\Debug\net5.0\SiteMercadoBackend.Produto.AssemblyInfoInputs.cache
+C:\Desenvolvimento\Repositorios SiteMercado\ProjetoBackendSiteMercado\SiteMercadoBackend.Produto\obj\Debug\net5.0\SiteMercadoBackend.Produto.AssemblyInfo.cs
+C:\Desenvolvimento\Repositorios SiteMercado\ProjetoBackendSiteMercado\SiteMercadoBackend.Produto\obj\Debug\net5.0\SiteMercadoBackend.Produto.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\Repositorios SiteMercado\ProjetoBackendSiteMercado\SiteMercadoBackend.Produto\obj\Debug\net5.0\SiteMercadoBackend.Produto.dll
+C:\Desenvolvimento\Repositorios SiteMercado\ProjetoBackendSiteMercado\SiteMercadoBackend.Produto\obj\Debug\net5.0\ref\SiteMercadoBackend.Produto.dll
+C:\Desenvolvimento\Repositorios SiteMercado\ProjetoBackendSiteMercado\SiteMercadoBackend.Produto\obj\Debug\net5.0\SiteMercadoBackend.Produto.pdb

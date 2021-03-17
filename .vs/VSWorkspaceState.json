@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SiteMercadoBackend.Produto",
+    "\\SiteMercadoBackend.Produto\\Commands",
+    "\\SiteMercadoBackend.Produto\\Shared",
+    "\\SiteMercadoBackend.Produto\\Shared\\Contracts"
+  ],
+  "SelectedNode": "\\SiteMercadoBackend.Produto\\Commands\\CreateProductCommand.cs",
+  "PreviewInSolutionExplorer": false
+}

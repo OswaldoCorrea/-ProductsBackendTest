@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2x0DhrR0xImnUKGTaO1MDfp8rjoqmuv3dRS2m5RXifrhxPKZF1WfvPN52mzHU/clW8woy8wxbY0LE0Lrb3SDPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvimento\\Repositorios SiteMercado\\ProjetoBackendSiteMercado\\SiteMercadoBackend.Produto\\SiteMercadoBackend.Produto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oswaldo.neto\\.nuget\\packages\\fluentvalidation\\9.5.2\\fluentvalidation.9.5.2.nupkg.sha512",
+    "C:\\Users\\oswaldo.neto\\.nuget\\packages\\flunt\\2.0.2\\flunt.2.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
